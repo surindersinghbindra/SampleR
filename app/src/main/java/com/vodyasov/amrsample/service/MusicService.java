@@ -10,9 +10,9 @@ import android.os.IBinder;
 import android.os.Messenger;
 import android.util.Log;
 
-import com.vodyasov.amr.AudiostreamMetadataManager;
-import com.vodyasov.amr.OnNewMetadataListener;
-import com.vodyasov.amr.UserAgent;
+import com.vodyasov.amrsample.amr.AudiostreamMetadataManager;
+import com.vodyasov.amrsample.amr.OnNewMetadataListener;
+import com.vodyasov.amrsample.amr.UserAgent;
 import com.vodyasov.amrsample.service.constant.BroadcastAction;
 import com.vodyasov.amrsample.service.constant.BundleArg;
 import com.vodyasov.amrsample.service.util.IPlayer;

@@ -1,4 +1,4 @@
-package com.vodyasov.amr;
+package com.vodyasov.amrsample.amr;
 
 import android.net.Uri;
 import android.text.TextUtils;

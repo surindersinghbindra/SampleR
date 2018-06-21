@@ -1,4 +1,4 @@
-package com.vodyasov.amr;
+package com.vodyasov.amrsample.amr;
 
 import java.util.List;
 
