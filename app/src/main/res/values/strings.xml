@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Sample R</string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hint.audiostream_uri">audiostream URL</string>
+    <string name="uri.audiostream_default">http://15913.live.streamtheworld.com:80/SAM07AAC214_SC</string>
+
+    <string name="text.streamtitle">Stream Title</string>
+    <string name="placeholder">some text</string>
+
+    <string name="text.play">play</string>
+    <string name="text.stop">stop</string>
+
+    <string name="text.header.br">icy-br: </string>
+    <string name="text.header.name">icy-name: </string>
+    <string name="text.header.genre">icy-genre: </string>
+    <string name="text.header.audio_info">ice-audio-info: </string>
+    <string name="text.header.description">icy-description: </string>
+    <string name="error_input_audiostream_uri">must be non-empty</string>
+</resources>
